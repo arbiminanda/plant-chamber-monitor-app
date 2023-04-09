@@ -8,7 +8,7 @@ API Endpoint: [plantchambermonitorapi.herokuapp.com](https://plantchambermonitor
 
 About the project: [Final Presentation of Mobile Computing and Web Technology Course](https://drive.google.com/file/d/1O8L9o7n5jqN_o2wuiafR2FtgOFFNM9FT/view?usp=sharing)
 
-Steps to run in local:
+Steps to run Django project in local:
 
 - change the use of this library 
 ```
