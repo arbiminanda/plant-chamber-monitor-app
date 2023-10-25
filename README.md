@@ -2,9 +2,11 @@
 
 Tools used: React.js, Django, SQLite
 
+Course References: [React JS + Python Django + SQLite | Fullstack App Tutorial](https://www.youtube.com/watch?v=WsBYK5Nv2V8&t=2620s)
+
 Result: [stormy-stream-35141.herokuapp.com](https://stormy-stream-35141.herokuapp.com/)
 
-API Endpoint: [plantchambermonitorapi.herokuapp.com](https://plantchambermonitorapi.herokuapp.com/)
+API Base URL: [plantchambermonitorapi.herokuapp.com](https://plantchambermonitorapi.herokuapp.com/)
 
 About the project: [Final Presentation of Mobile Computing and Web Technology Course](https://docs.google.com/presentation/d/1AwnkB7VFRMF_U3N514gIqtQ_gwpDk5Z1/edit?usp=sharing&ouid=108280050431583243416&rtpof=true&sd=true)
 
