@@ -32,7 +32,7 @@ sqlparse==0.4.3
 ```
 - Run these commands:
 ```
-php install -r requirements.txt
-php manage.py migrate
-php manage.py runserver
+pip install -r requirements.txt
+pip manage.py migrate
+pip manage.py runserver
 ```
